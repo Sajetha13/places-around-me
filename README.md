@@ -5,13 +5,23 @@ To develop a website to display details about the places around my house.
 ## Design Steps:
 
 ### Step 1:
-Write your own steps here.
+Create a folder and clone the repository into the folder.
 ### Step 2:
-
+Start a project named myproj and create an app inside it.
+### Step 3:
+Do the required changes in settings.py
+### Step 4:
+Open google maps and take a screenshot of a place near your house, then open image map and create a html page for some places around your place then get the code and complete index.html in static files 
+### Step 5:
+Then create a html file for each of the places that you have selected
+### Step 6:
+Run the server and check if the web pages are loding perfectly
+### Step 7:
+Then reposit the same to github using the git commands. 
 ## Code:
 
 ### index.html:
-```html
+```
 <!DOCTYPE html>
 <html>
     <titile>Places around me</titile>
